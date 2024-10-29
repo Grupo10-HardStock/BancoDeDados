@@ -6,8 +6,8 @@ from mysql.connector import connect, Error
 # Configurações de conexão com o banco de dados
 config = {
     'user': 'root',
-    'password': '#Gf38851238863',
-    'host': '127.0.0.1',
+    'password': 'urubu100',
+    'host': '34.205.36.110',
     'database': 'HardStock'
 }
     
